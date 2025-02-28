@@ -1,6 +1,7 @@
 <!-- 배너 -->
 <div align="center">
   <img src="https://github.com/16eunda/16eunda/assets/545ec788-946a-4b62-a249-a9376ad49846" />
+  ![Image](https://github.com/user-attachments/assets/79016769-0f30-45c0-9f4a-77e00f9e9a99)
 </div>
 
 <!-- 내용 부분 -->
