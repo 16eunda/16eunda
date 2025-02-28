@@ -1,9 +1,5 @@
 <!-- 배너 -->
 ![Image](https://github.com/user-attachments/assets/9fb2edc9-03ab-4c32-95cc-f4bcd03fd826)
-<div align="center">
-  <img src="https://github.com/16eunda/16eunda/issues/1#issue-2886193700" />
-
-</div>
 
 <!-- 내용 부분 -->
 <h3 align="center">✨ Skills ✨</h3>
