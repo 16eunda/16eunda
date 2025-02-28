@@ -4,13 +4,13 @@
 <!-- 내용 부분 -->
 <h3 align="center">✨ Skills ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/C%20Language-%23A8B9CC?style=for-the-badge&logo=c" />&nbsp;
+  <img src="https://img.shields.io/badge/C%20Language-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B" />&nbsp;
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp;
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-%23F7B731?style=for-the-badge&logo=java" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-%23F7B731?style=for-the-badge&logo=java&logoColor=20232a" />&nbsp;
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/MySQL-%2300A4E4?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express" />&nbsp;
