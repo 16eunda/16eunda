@@ -11,6 +11,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-%23F7B731?style=for-the-badge&logo=java&logoColor=20232a" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/MySQL-%2300A4E4?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express" />&nbsp;
