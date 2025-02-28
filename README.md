@@ -12,9 +12,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Java-%23F7B731?style=for-the-badge&logo=java" />&nbsp;
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-%2300A4E4?style=for-the-badge&logo=mysql" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-%2300A4E4?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express" />&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-%2343853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
 </div>
 
