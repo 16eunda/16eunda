@@ -47,7 +47,8 @@
   <a href="mailto:16wjdekdms@gmail.com">
     <img src="https://img.shields.io/badge/16wjdekdms@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
   </a>
+      
   <a href="https://16eunda.github.io">
-    <img src="https://img.shields.io/badge/Blog-16eunda.github.io-1E90FF?style=for-the-badge&logo=githubpages&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Blog-1EBC8F?style=for-the-badge&logo=githubpages&logoColor=white" />&nbsp;
   </a>
 </div>
