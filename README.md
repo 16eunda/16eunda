@@ -6,6 +6,10 @@
 <div style="text-align: center;">
   <img src="https://github.com/16eunda/16eunda/assets/545ec788-946a-4b62-a249-a9376ad49846" />
 </div>
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
+
 
 <!-- 내용 부분 -->
 <h3 align="center">✨ Skills ✨</h3>
