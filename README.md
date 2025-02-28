@@ -6,7 +6,8 @@
 
 <div align="center">
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-  <img src="https://github.com/16eunda/16eunda/assets/9e7206a1-a09b-4abf-9084-5c042213c675" />
+  <img src="https://raw.githubusercontent.com/16eunda/16eunda/main/assets/9e7206a1-a09b-4abf-9084-5c042213c675" />
+
 </div>
 
 
