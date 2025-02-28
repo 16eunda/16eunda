@@ -56,3 +56,6 @@
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=16eunda)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=16wjdekdms)](https://solved.ac/16wjdekdms/)
