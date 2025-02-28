@@ -47,15 +47,13 @@
   <a href="mailto:16wjdekdms@gmail.com">
     <img src="https://img.shields.io/badge/16wjdekdms@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-  <a href="https://16wjdekdms.github.io">
+  <a href="https://16eunda.github.io">
     <img src="https://img.shields.io/badge/Tech blog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
 
 </div>
 
-<br>
 ---
-<br>
 
 <!-- 자주쓰는 언어 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=16eunda&layout=compact)
