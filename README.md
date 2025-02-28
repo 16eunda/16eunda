@@ -54,6 +54,10 @@
 
 
 ---
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16eunda&layout=compact" width="49%" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=16wjdekdms" width="49%" />
+</div>
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16eunda&layout=compact" width="48%" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=16wjdekdms" width="48%" />
