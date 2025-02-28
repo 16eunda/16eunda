@@ -54,6 +54,12 @@
 
 
 ---
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16eunda&layout=compact" />
+  <a href="https://solved.ac/16wjdekdms">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=16wjdekdms" />
+  </a>
+</div>
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16eunda&layout=compact" width="49%" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=16wjdekdms" width="49%" />
