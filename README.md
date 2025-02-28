@@ -54,21 +54,7 @@
 
 
 ---
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16eunda&layout=compact" />
-  <a href="https://solved.ac/16wjdekdms">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=16wjdekdms" />
-  </a>
-</div>
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16eunda&layout=compact" width="49%" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=16wjdekdms" width="49%" />
-</div>
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16eunda&layout=compact" width="48%" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=16wjdekdms" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16eunda&layout=compact" width="48%" /> <!-- 자주쓰는 언어 -->
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=16wjdekdms" width="48%" /> <!-- 백준 티어 -->
 </p>
-<!-- 자주쓰는 언어 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=16eunda&layout=compact)
-<!-- 백준 티어 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=16wjdekdms)](https://solved.ac/16wjdekdms/)
