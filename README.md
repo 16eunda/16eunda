@@ -51,20 +51,10 @@
   </a>
 </div>
 
-
 ---
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16eunda&layout=compact" width="48%" /> <!-- 자주쓰는 언어 -->
-  <a href="https://github.com/16eunda/readMe">
-    <img src="assets/readme-project.svg" width="48%" alt="ReadMe - AI 기반 독서 앱" />
-  </a>
-</p>
 
-<div align="center">
-  <a href="https://github.com/16eunda/readMe">
-    <img src="https://img.shields.io/badge/ReadMe%20App-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReadMe 앱" />
-  </a>&nbsp;
-  <a href="https://github.com/16eunda/readMe-backend">
-    <img src="https://img.shields.io/badge/ReadMe%20Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="ReadMe 백엔드" />
-  </a>
-</div>
+<h3 align="center">👩🏻‍💻 About Me 👩🏻‍💻</h3>
+<p align="center">
+  Java·SQL 기반 업무 시스템과 React Native 앱을 개발합니다.<br />
+  AI를 활용해 필요한 기능을 직접 구현하는 데 관심이 있습니다.
+</p>
